@@ -2,7 +2,7 @@
 
 In terms of testing load and performance, there are a couple of areas to be concerned with.  This introduction touches on initial latency and scalability.  Stress testing or saturation testing, also mentioned briefly, is performed in order to determine the performance of the system at capacity.  
 
-[**Caveat -- there is a more to scalability than this touches on, but if it is the case that services are already built in a scalable fashion and there is the ability to quickly add capacity is not at issue, testing should be enough to mitigate a reasonable amount of the damage and is often balanced against the cost (time and resources) of testing.]
+[**Caveat -- there is a more to scalability than this touches on, but if it is the case that services are already built in a scalable fashion and you have the ability to quickly add capacity, testing should be enough to mitigate a reasonable amount of the damage but is often balanced against the cost (time and resources) of testing.  This introduction assumes that those more significant issues with scalability are not an issue.]
 
 ## Why test?
 
